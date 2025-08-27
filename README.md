@@ -1,7 +1,4 @@
 # 🧠 Quiz Game (Python, OOP)
-
-![Python](https://img.shields.io/badge/python-v3.8+-blue.svg)
-![OOP](https://img.shields.io/badge/Concepts-OOP-orange)
 ![GitHub repo size](https://img.shields.io/github/repo-size/Supratik271/quiz-game)
 
 A fun **True/False Quiz Game** built with Python using **Object-Oriented Programming**.  
@@ -9,10 +6,7 @@ Answer the questions, test your knowledge, and track your score as you play! �
 
 ---
 
-## 📸 Demo Screenshot
-*(Replace with your own screenshot later)*
 
-![Demo](https://via.placeholder.com/600x300.png?text=Quiz+Game+Demo)
 
 ---
 
@@ -58,13 +52,6 @@ The correct answer was: True
 Your current score is 1/1
 ```
 
----
 
-## 🌟 Future Improvements
-- Add a GUI using Tkinter or Flask  
-- Add more question categories  
-- Fetch questions dynamically from an API  
-
----
 
 👨‍💻 Developed by **Supratik Choudhury**
